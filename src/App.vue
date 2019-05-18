@@ -38,7 +38,9 @@
 </template>
 
 <script>
+import router from './router'
   export default {
+    router: router,
     data: () => ({
       icons: [
         'fab fa-facebook',
