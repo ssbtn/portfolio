@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
-//vuetify
+//vuetify関連
 import 'material-design-icons-iconfont/dist/material-design-icons.css' // Ensure you are using css-loader
 import Vuetify from 'vuetify'
 import "vuetify/dist/vuetify.min.css";
